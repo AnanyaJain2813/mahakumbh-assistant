@@ -1,0 +1,9 @@
+{
+  "short_name": "KumbhMantra",
+  "name": "KumbhMantra Pro Command OS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#f97316",
+  "orientation": "portrait"
+}
