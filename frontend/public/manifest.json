@@ -1,0 +1,16 @@
+{
+  "short_name": "KumbhAI",
+  "name": "Mahakumbh AI Pilgrim Assistant",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1A2A3A",
+  "theme_color": "#FF6B35",
+  "display": "standalone",
+  "orientation": "portrait"
+}
